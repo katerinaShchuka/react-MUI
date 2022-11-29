@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@400;600&display=swap');
+
+body {
+  background-color: antiquewhite;
+  margin: 5em;
+  margin-top: 10em;
+  font-family: 'Roboto Mono', monospace;
+  font-size: 16px;
+  line-height: 1;
+}
+
+.App {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+button {
+  background-color: rgb(200, 208, 245);
+  border-color: rgb(97, 97, 214);
+  color: rgb(2, 2, 80);
+  font-weight: bold;
+  border-radius: 0.3em;
+  padding: 0.5em 1em 0.5em 1em;
+ 
+}
+
+button:hover {
+  background-color: rgb(174, 186, 239);
+  border-color: rgb(79, 79, 208);
+}
+
+#form2 {
+  display: flex;
+  flex-direction: column;
+justify-content: center;
+align-items: center;
+gap: 0.4em;
+}

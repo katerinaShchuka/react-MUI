@@ -1,0 +1,21 @@
+#balance {
+    background-color: wheat;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1em 2em 2em 2em;
+    margin: 4em 9em 1em 9em;
+}
+
+#balance:hover {
+    border: 1px solid orange;
+    background-color: rgb(247, 217, 180);
+}
+
+#formTransfer {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+}
+

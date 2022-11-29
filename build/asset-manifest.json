@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/bof-budget-control-app/static/css/main.d9c6f42f.css",
+    "main.js": "/bof-budget-control-app/static/js/main.9aab03fa.js",
+    "static/js/787.2d1435d0.chunk.js": "/bof-budget-control-app/static/js/787.2d1435d0.chunk.js",
+    "index.html": "/bof-budget-control-app/index.html",
+    "main.d9c6f42f.css.map": "/bof-budget-control-app/static/css/main.d9c6f42f.css.map",
+    "main.9aab03fa.js.map": "/bof-budget-control-app/static/js/main.9aab03fa.js.map",
+    "787.2d1435d0.chunk.js.map": "/bof-budget-control-app/static/js/787.2d1435d0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d9c6f42f.css",
+    "static/js/main.9aab03fa.js"
+  ]
+}
